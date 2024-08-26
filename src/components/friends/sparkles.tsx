@@ -7,6 +7,7 @@ export const FriendSparkles = () => {
             image="/img/other/sparkles.jpg"
             tooltip="namsis.gayest.systems"
             url="https://namsis.gayest.systems/"
+            onClick={() => { console.log("gay gay homosexual gay 617"); }}
         >
             <Text span c="white">
                 Sparkles ✨
